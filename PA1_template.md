@@ -224,5 +224,5 @@ into some calculations or summaries of the data.
 ### Conclusion:
 
 -   We can see from both the graphs above that activity levels on
-    weekends are much higher and frequent as compared to weekdays hence
-    the number of steps is higher on weekends.
+    weekdays are much higher and frequent as compared to weekends hence
+    the number of steps is lesser on weekends.
