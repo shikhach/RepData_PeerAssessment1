@@ -114,6 +114,10 @@ What is the average daily activity pattern?
     intervalWithMaxSteps
 
     ## [1] "835"
+    
+    ### Conclusion:
+
+-  The interval with maximum number of steps is "835 - 840"
 
 Imputing missing values
 -----------------------
