@@ -132,4 +132,4 @@ plot(weekendSteps$steps, type= "l", xlim= c(0,300), ylim= c(0,300), xlab="Interv
 
 
 ###Conclusion:
-* We can see from both the graphs above that activity levels on weekends are much higher and frequent as compared to weekdays hence the number of steps is higher on weekends.  
+* We can see from both the graphs above that activity levels on weekdays are much higher and frequent as compared to weekends hence the number of steps is lesser on weekends.  
