@@ -115,7 +115,8 @@ What is the average daily activity pattern?
 
     ## [1] "835"
     
-    ### Conclusion:
+ 
+ ### Conclusion:
 
 -  The interval with maximum number of steps is "835 - 840"
 
